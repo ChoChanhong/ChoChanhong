@@ -5,6 +5,7 @@
 <a href="mailto:choch953@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://chanong.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory%20Blog-FF8800?style=flat-square&logo=Bitdefender&logoColor=white"/></a>
 <a href="https://www.instagram.com/zozanou/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.notion.so/choch/Portfolio-7291638e8dc048f4abdec295e8f58634" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 <br>
   
